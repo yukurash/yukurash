@@ -7,9 +7,3 @@
 - 🌐 Portfolio: **[yukurash.github.io](https://yukurash.github.io/)**
 - 📝 I write on **[Zenn](https://zenn.dev/yukurash)** and **[Qiita](https://qiita.com/yukurash)** — currently running the series *5分でわかる Foundry Tools*
 - 🛠️ On the side I build iOS apps, web apps, and AI agents
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yukurash&show_icons=true&hide_border=true" alt="yukurash's GitHub stats" />
-</p>
