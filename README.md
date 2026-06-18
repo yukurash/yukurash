@@ -5,7 +5,7 @@
 
 - 🔭 Working at **Microsoft**, focused on **Azure** and AI
 - 🌐 Portfolio: **[yukurash.github.io](https://yukurash.github.io/)**
-- 📝 I write on **[Zenn](https://zenn.dev/yukurash)** and **[Qiita](https://qiita.com/yukurash)** — currently running the series *5分でわかる Foundry Tools*
+- 📝 I write on **[Zenn](https://zenn.dev/yukurash)** — I used to post on **[Qiita](https://qiita.com/yukurash)**, now fully migrated to Zenn
 - 🛠️ On the side I build iOS apps, web apps, and AI agents
 
 ---
