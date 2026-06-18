@@ -11,3 +11,5 @@
 ---
 
 ![Commit Pet](commit-pet.svg)
+
+<sub>🐾 The pixel pet above grows with my commits — it's my open-source GitHub Action, **[Commit Pet](https://github.com/yukurash/commit-pet)**. Add one to your own profile!</sub>
