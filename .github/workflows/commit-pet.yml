@@ -21,3 +21,4 @@ jobs:
           name: Puni
           output: commit-pet.svg
           theme: en
+          auto_merge: 'true'
